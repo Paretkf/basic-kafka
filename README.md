@@ -227,6 +227,3 @@ $ exit
 
 16. Cleanup workshop
 $ kubectl delete ns basic-kafka
-
-
-
